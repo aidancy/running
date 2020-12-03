@@ -72,7 +72,7 @@ const activities = [
   {
     "run_id": 1431728485102,
     "name": "run from gpx",
-    "distance": 1971.936675504383,
+    "distance": 1971.9366755043825,
     "moving_time": "0:12:10.639000",
     "type": "Run",
     "start_date": "2015-05-15 22:21:25",
@@ -80,7 +80,7 @@ const activities = [
     "location_country": "\u5c71\u897f\u5927\u5b66, \u575e\u57ce\u8def, \u575e\u57ce\u8857\u9053, \u5317\u5f20\u793e\u533a, \u575e\u57ce\u8857\u9053, \u5c0f\u5e97\u533a, \u592a\u539f\u5e02, \u5c71\u897f\u7701, 030012, China \u4e2d\u56fd",
     "summary_polyline": "wjueFgwcnTuQ?S`Fd@rHlA`@~Ao@|JL|@_Cf@K`JJXgI`@gAc@_AGmIkAk@yBE_A|AaCjQ",
     "average_heartrate": null,
-    "average_speed": 2.698920637283779,
+    "average_speed": 2.6989206372837784,
     "streak": 6
   },
   {
@@ -254,7 +254,7 @@ const activities = [
   {
     "run_id": 1433629468937,
     "name": "run from gpx",
-    "distance": 2498.9502588884307,
+    "distance": 2498.9502588884316,
     "moving_time": "0:15:08.240000",
     "type": "Run",
     "start_date": "2015-06-06 22:24:28",
@@ -262,7 +262,7 @@ const activities = [
     "location_country": "\u5c71\u897f\u5927\u5b66, \u575e\u57ce\u8def, \u575e\u57ce\u8857\u9053, \u5317\u5f20\u793e\u533a, \u575e\u57ce\u8857\u9053, \u5c0f\u5e97\u533a, \u592a\u539f\u5e02, \u5c71\u897f\u7701, 030012, China \u4e2d\u56fd",
     "summary_polyline": "}kueFwncnTVm@IaDc@MY`@?|Cl@l@Z_@AcDo@i@Wh@FpDb@RXc@AaDYi@m@d@HnDx@TDwE_@_@[dAG|Cd@Xd@s@A{Cq@c@Y`@EzCj@l@`@[H{Ci@q@[b@E|Cd@l@`@s@CyCm@e@Wj@C`D\\b@j@k@A_DWe@e@NE|DVh@j@]B}COo@q@REnDXb@p@_@A{Ca@}@e@PA`EZb@",
     "average_heartrate": null,
-    "average_speed": 2.751420614472422,
+    "average_speed": 2.7514206144724227,
     "streak": 1
   },
   {
@@ -744,7 +744,7 @@ const activities = [
   {
     "run_id": 1438207949913,
     "name": "run from gpx",
-    "distance": 4959.487609273172,
+    "distance": 4959.487609273173,
     "moving_time": "0:29:55.911000",
     "type": "Run",
     "start_date": "2015-07-29 22:12:29",
@@ -752,7 +752,7 @@ const activities = [
     "location_country": "\u5927\u5e86\u8def\u8857\u9053, \u5e73\u57ce\u533a, \u5927\u540c\u5e02, \u5c71\u897f\u7701, 037000, China \u4e2d\u56fd",
     "summary_polyline": "c_osF{ohrT`N_OFm@}JyN}Ru\\yBwCmAMmOtTmKpKwUzQaFrFiKxH{BjCbQf_@tMtTlb@w^h@{@o@c@{E~E",
     "average_heartrate": null,
-    "average_speed": 2.761544201952754,
+    "average_speed": 2.7615442019527543,
     "streak": 3
   },
   {
@@ -1206,7 +1206,7 @@ const activities = [
   {
     "run_id": 1494282226149,
     "name": "run from gpx",
-    "distance": 2040.8096640103936,
+    "distance": 2040.8096640103938,
     "moving_time": "0:14:08.020000",
     "type": "Run",
     "start_date": "2017-05-08 22:23:46",
@@ -1214,7 +1214,7 @@ const activities = [
     "location_country": "\u5927\u540c\u673a\u8f66\u9ad8\u7ea7\u6280\u5de5\u5b66\u6821, \u6821\u5357\u8857, \u5927\u5e86\u8def\u8857\u9053, \u5e73\u57ce\u533a, \u5927\u540c\u5e02, \u5c71\u897f\u7701, 037004, China \u4e2d\u56fd",
     "summary_polyline": "aynsFyehrTaEyIzNoNlCxChVxa@iOnPcQzO",
     "average_heartrate": null,
-    "average_speed": 2.406558411370479,
+    "average_speed": 2.4065584113704794,
     "streak": 1
   },
   {
@@ -1248,7 +1248,7 @@ const activities = [
   {
     "run_id": 1495888023139,
     "name": "run from gpx",
-    "distance": 3322.0208809903124,
+    "distance": 3322.020880990313,
     "moving_time": "0:20:23.020000",
     "type": "Run",
     "start_date": "2017-05-27 12:27:03",
@@ -1256,7 +1256,7 @@ const activities = [
     "location_country": "\u5927\u5e86\u8def\u8857\u9053, \u5e73\u57ce\u533a, \u5927\u540c\u5e02, \u5c71\u897f\u7701, 037000, China \u4e2d\u56fd",
     "summary_polyline": "ibosFimhrTbPgPvAg@tYxe@_YfZuOhMeUec@}@cDjJ{JxErIdBmA",
     "average_heartrate": null,
-    "average_speed": 2.7162441178315255,
+    "average_speed": 2.716244117831526,
     "streak": 1
   },
   {
@@ -1304,7 +1304,7 @@ const activities = [
   {
     "run_id": 1496321154171,
     "name": "run from gpx",
-    "distance": 4020.4463217229836,
+    "distance": 4020.446321722983,
     "moving_time": "0:24:28.950000",
     "type": "Run",
     "start_date": "2017-06-01 12:45:54",
@@ -1312,7 +1312,7 @@ const activities = [
     "location_country": "",
     "summary_polyline": "_bosFomhrTbL}JhCoEjBEtLsMhBaDxOnMtDvBhGbH_BfIgDbGmLhK_EfFgWxVqK|Is@UoOq\\pQqQ",
     "average_heartrate": null,
-    "average_speed": 2.73695246381632,
+    "average_speed": 2.7369524638163196,
     "streak": 3
   },
   {
@@ -1654,7 +1654,7 @@ const activities = [
   {
     "run_id": 1500207214068,
     "name": "run from gpx",
-    "distance": 10933.783931801177,
+    "distance": 10933.783931801176,
     "moving_time": "1:01:08.075000",
     "type": "Run",
     "start_date": "2017-07-16 12:13:34",
@@ -1662,7 +1662,7 @@ const activities = [
     "location_country": "\u5927\u540c\u673a\u8f66\u9ad8\u7ea7\u6280\u5de5\u5b66\u6821, \u6821\u5357\u8857, \u5927\u5e86\u8def\u8857\u9053, \u5e73\u57ce\u533a, \u5927\u540c\u5e02, \u5c71\u897f\u7701, 037004, China \u4e2d\u56fd",
     "summary_polyline": "}|nsF{_hrTcFbEcEcI@m@`R}QrFiJqb@as@NyYi@cWhBqA|D]r\\DnLi@rAXj@n@DvJl@zARdJtLh@jAjIEdGg@rCn@~UY~BLxEc@jNmBhAoApCqN|OwAu@sGkKg@M]d@Jv@dEdF|J|OnEbIRpAaTtTq\\hYq]ha@i@GaBoCuUme@`BgDld@{_@fAuBrHeH|AbAtCdGvFcF",
     "average_heartrate": null,
-    "average_speed": 2.9807961755965118,
+    "average_speed": 2.9807961755965113,
     "streak": 1
   },
   {
@@ -1906,7 +1906,7 @@ const activities = [
   {
     "run_id": 1503143359058,
     "name": "run from gpx",
-    "distance": 8007.336476469475,
+    "distance": 8007.336476469474,
     "moving_time": "0:44:33.370000",
     "type": "Run",
     "start_date": "2017-08-19 11:49:19",
@@ -1914,7 +1914,7 @@ const activities = [
     "location_country": "\u5927\u540c\u673a\u8f66\u9ad8\u7ea7\u6280\u5de5\u5b66\u6821, \u6821\u5357\u8857, \u5927\u5e86\u8def\u8857\u9053, \u5e73\u57ce\u533a, \u5927\u540c\u5e02, \u5c71\u897f\u7701, 037004, China \u4e2d\u56fd",
     "summary_polyline": "c}nsFw`hrTQbAkEzCkDmFg@gBjR{RbGsJs@kBkAg@oF_JmDoH{QuXUkHZsVw@qLHmFfIg@dk@M`@Z\\vCb@lSdAbAhJI`Ah@^zJYvu@yB|G}OfRXbCpFtHhCjFo@pDuNrO{X`VkCuCuLoVnDmFlDyCpAsB|@[",
     "average_heartrate": null,
-    "average_speed": 2.9952219395255706,
+    "average_speed": 2.99522193952557,
     "streak": 2
   },
   {
@@ -2158,7 +2158,7 @@ const activities = [
   {
     "run_id": 1506983724060,
     "name": "run from gpx",
-    "distance": 8164.133862724125,
+    "distance": 8164.133862724124,
     "moving_time": "0:46:52.245000",
     "type": "Run",
     "start_date": "2017-10-02 22:35:24",
@@ -2166,7 +2166,7 @@ const activities = [
     "location_country": "\u5927\u540c\u673a\u8f66\u9ad8\u7ea7\u6280\u5de5\u5b66\u6821, \u6821\u5357\u8857, \u5927\u5e86\u8def\u8857\u9053, \u5e73\u57ce\u533a, \u5927\u540c\u5e02, \u5c71\u897f\u7701, 037004, China \u4e2d\u56fd",
     "summary_polyline": "o_osFwghrT{@_BAgBrJuJtB_DhAw@f@Fn[hi@xCjD|NbWrNjSfMpSQd@_C\\mXz^u@bGaB`E_G`HyDzBmBdCQlBTbCdCSVe@vBRZfB_BbDzAiCIwDt@wA|HwAhCaCtFsAhBoBb@sBtFcAxHcGjC{GSmGbAmIowAc|B",
     "average_heartrate": null,
-    "average_speed": 2.903066362541004,
+    "average_speed": 2.9030663625410034,
     "streak": 1
   },
   {
@@ -2424,7 +2424,7 @@ const activities = [
   {
     "run_id": 1512512567069,
     "name": "run from gpx",
-    "distance": 10755.864280005018,
+    "distance": 10755.864280005017,
     "moving_time": "0:59:52.001000",
     "type": "Run",
     "start_date": "2017-12-05 22:22:47",
@@ -2432,7 +2432,7 @@ const activities = [
     "location_country": "\u5927\u540c\u673a\u8f66\u9ad8\u7ea7\u6280\u5de5\u5b66\u6821, \u6821\u5357\u8857, \u5927\u5e86\u8def\u8857\u9053, \u5e73\u57ce\u533a, \u5927\u540c\u5e02, \u5c71\u897f\u7701, 037004, China \u4e2d\u56fd",
     "summary_polyline": "{{nsF_bhrTQS{F`HsAiEkB}CfMkMpAi@jIiJfg@dx@zDnIjHrIpGlLnH~JdNjUc@rFi@`BR~EeCtG_InGcGrAI|A_CdC}Al@aCAoDdDiHrAe@`AYvF{EjG{@Se@_Cv@{CWoIlAaC~DmCrF_G~B{E~AiGxNoI~Hu@fGt@l@f@RtEoAfE}AtB_AH{@g@g@cAB}BeBw@HkB[cBj@{B{EZtAkCn@cE`Bi@jAuAdBHrEdEbAoAwJiQ{CiDqNoUsGcIyBiGaJsNkB}A_CgFoFaHsA_DkMqSi@IkAv@{NzOLbCdCbF",
     "average_heartrate": null,
-    "average_speed": 2.994393453678052,
+    "average_speed": 2.9943934536780517,
     "streak": 1
   },
   {
